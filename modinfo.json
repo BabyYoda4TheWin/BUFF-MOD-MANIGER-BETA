@@ -1,0 +1,152 @@
+[
+  {
+    "name": "BepInEx",
+    "author": "BepInEx",
+    "version": "5.4.23.5",
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip"
+  },
+  {
+    "name": "Utilla",
+    "author": "SirKingBinx",
+    "version": "1.7.3",
+    "git_path": "sirkingbinx/Utilla",
+    "group": "Core",
+    "download_url": "https://github.com/sirkingbinx/Utilla/releases/latest/download/Utilla.dll"
+  },
+  {
+    "name": "GorillaLibrary",
+    "author": "Gorilla Tag Modding Hub",
+    "version": "1.1.0",
+    "git_path": "GorillaTagModdingHub/GorillaLibrary",
+    "group": "Core",
+    "download_url": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/latest/download/GorillaLibrary.dll"
+  },
+  {
+    "name": "MonoSandbox",
+    "author": "developer9998",
+    "version": "1.2.4",
+    "git_path": "developer9998/MonoSandbox",
+    "group": "Gameplay",
+    "dependencies": [
+      "GorillaLibrary"
+    ],
+    "download_url": "https://github.com/developer9998/MonoSandbox/releases/latest/download/MonoSandbox.dll"
+  },
+  {
+    "name": "GorillaShirts",
+    "author": "developer9998",
+    "version": "2.4.9",
+    "git_path": "developer9998/GorillaShirts",
+    "group": "Cosmetic",
+    "dependencies": [
+      "GorillaLibrary"
+    ],
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
+  },
+  {
+    "name": "GorillaInfoWatch",
+    "author": "developer9998",
+    "version": "1.1.7",
+    "git_path": "developer9998/GorillaInfoWatch",
+    "group": "Tweaks / Tools",
+    "dependencies": [
+      "GorillaLibrary"
+    ],
+    "download_url": "https://github.com/developer9998/GorillaInfoWatch/releases/latest/download/GorillaInfoWatch.dll"
+  },
+  {
+    "name": "MonkePhone",
+    "author": "developer9998",
+    "version": "1.0.10",
+    "git_path": "developer9998/MonkePhone",
+    "group": "Tweaks / Tools",
+    "dependencies": [
+      "GorillaLibrary"
+    ],
+    "download_url": "https://github.com/developer9998/MonkePhone/releases/latest/download/MonkePhone.dll"
+  },
+  {
+    "name": "Monke Cosmetics",
+    "author": "Ngbatz",
+    "version": "2.2011",
+    "git_path": "NgbatzYT/MonkeCosmetics",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
+  },
+  {
+    "name": "BingusNametags++",
+    "author": "bingus",
+    "version": "1.9.0",
+    "git_path": "sirkingbinx/BingusNametagsPlusPlus",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
+  },
+  {
+    "name": "Bark",
+    "author": "KyleTheScientist & Ngbatz",
+    "version": "3.0.2",
+    "git_path": "NgbatzYT/Bark",
+    "group": "Gameplay",
+    "dependencies": [
+      "Utilla"
+    ],
+    "download_url": "https://github.com/NgbatzYT/Bark/releases/latest/download/Bark.dll"
+  },
+  {
+    "name": "Gorilla Trials",
+    "author": "Lapis",
+    "version": "1.6.0",
+    "git_path": "LapisGit/GorillaTrials",
+    "group": "Gameplay",
+    "download_url": "https://github.com/LapisGit/GorillaTrials/releases/latest/download/GorillaTrials.dll"
+  },
+  {
+    "name": "Computer Interface",
+    "author": "Several (Check README)",
+    "version": "2.1.5",
+    "git_path": "DecalFree/ComputerInterface",
+    "install_location": "BepInEx/plugins",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/DecalFree/ComputerInterface/releases/latest/download/ComputerInterface-BepInEx.zip"
+  },
+  {
+    "name": "Pizza Delivery",
+    "author": "1NobleDuck & Ngbatz",
+    "version": "1.0.1",
+    "git_path": "NgbatzYT/PizzaDelivery",
+    "group": "Gameplay",
+    "dependencies": [
+      "Utilla"
+    ],
+    "download_url": "https://github.com/NgbatzYT/PizzaDelivery/releases/latest/download/PizzaDelivery.dll"
+  },
+  {
+    "name": "Gorilla Hands",
+    "author": "Crafterbot",
+    "version": "1.0.3.1",
+    "git_path": "CrafterBotOfficial/GorillaHands",
+    "group": "Gameplay",
+    "dependencies": [
+      "Utilla"
+    ],
+    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/latest/download/GorillaHands.dll"
+  },
+  {
+    "name": "GetBlocked",
+    "author": "SmoothesHub",
+    "version": "1.0.0",
+    "git_path": "SmoothesHub/GetBlocked",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/SmoothesHub/GetBlocked/releases/download/GetBlocked/GetBlocked.dll"
+  },
+  {
+    "name": "OldModes",
+    "author": "ToastConcern",
+    "version": "1.1.0",
+    "git_path": "Toastconcern/OldModes",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Toastconcern/OldModes/releases/latest/download/OldModes.dll"
+  },
+]

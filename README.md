@@ -1,2 +1,6 @@
 # BUFF-MOD-MANIGER-BETA
 MOD MENAGER FOR GORILLA TAG
+
+this mod manager is for gorilla tag and no sourse code because of skidders
+
+I'm still learning how to code so i browed the project from https://github.com/NgbatzYT/MonkeModManager/releases/tag/2.7.2.2

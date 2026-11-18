@@ -157,6 +157,7 @@
     "group": "illigal mods",
      "dependencies": [
       "Gorilla-Notifications"
+     ],
     "download_url": "https://github.com/hamburbur-org/hamburbur/releases/latest/download/hamburbur.dll"
  },
   {

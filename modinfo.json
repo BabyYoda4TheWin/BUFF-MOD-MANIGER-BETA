@@ -149,4 +149,12 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/Toastconcern/OldModes/releases/latest/download/OldModes.dll"
   },
+   {
+    "name": hamburbur",
+    "author": "hamburbur-org",
+    "version": "7.3.1",
+    "git_path": "hamburbur-org/hamburbur",
+    "group": "illegal mods",
+    "download_url": "https://github.com/hamburbur-org/hamburbur/releases/latest/download/hamburbur.dll"
+  },
 ]

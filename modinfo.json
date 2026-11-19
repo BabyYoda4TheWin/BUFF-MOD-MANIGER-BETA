@@ -167,5 +167,24 @@
     "git_path": "hamburbur-org/Gorilla-Notifications",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/hamburbur-org/Gorilla-Notifications/releases/latest/download/GorillaNotifications.dll"
+ }, 
+  {
+    "name": "Banana-OS",
+    "author": "HuskyGT",
+    "version": "1.1.1",
+    "git_path": "HuskyGT/Banana-OS",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/latest/download/BananaOS.dll"
+  },
+   {
+    "name": "Phosphorite Reborn",
+    "author": " Orolade",
+    "version": "1.0.0",
+    "git_path": "Orolade/phosphorite-reborn",
+    "group": "Tweaks / Tools",
+     "dependencies": [
+      "Banana-OS"
+     ],
+    "download_url": "https://github.com/Orolade/phosphorite-reborn/releases/latest/download/phosphorite.dll"
   },
 ]

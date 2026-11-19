@@ -186,5 +186,13 @@
       "Banana-OS"
      ],
     "download_url": "https://github.com/Orolade/phosphorite-reborn/releases/latest/download/phosphorite.dll"
+ },
+  {
+    "name": "WalkSimulator",
+    "author": "ZlothY29IQ",
+    "version": "1.0.7",
+    "git_path": "ZlothY29IQ/WalkSimulator",
+    "group": "Gameplay",
+    "download_url": "https://github.com/ZlothY29IQ/WalkSimulator/releases/latest/download/WalkSimulator.dll"
   },
 ]

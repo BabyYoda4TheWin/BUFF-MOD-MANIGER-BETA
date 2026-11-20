@@ -194,5 +194,12 @@
     "git_path": "ZlothY29IQ/WalkSimulator",
     "group": "Gameplay",
     "download_url": "https://github.com/ZlothY29IQ/WalkSimulator/releases/latest/download/WalkSimulator.dll"
-  },
+ },
+  {
+    "name": "backfilp",
+    "author": "struuct",
+    "version": "1.0.1",
+    "git_path": "struuct/Backflip",
+    "group": "Gameplay",
+    "download_url": "https://github.com/struuct/Backflip/releases/latest/download/Backflip.dll"
 ]

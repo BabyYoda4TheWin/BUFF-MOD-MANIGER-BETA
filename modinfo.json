@@ -211,5 +211,13 @@
     "group": "illigal mods",
     "download_url": "https://github.com/iimenu/project/releases/latest/download/ii.Reborn.dll"
  },
+  {
+    "name": "GorillaCookieClickerFixed",
+    "author": "Instel12",
+    "version": "1.0.0",
+    "git_path": "Instel12/GorillaCookieClickerFixed",
+    "group": "random fun stuff",
+    "download_url": "https://github.com/Instel12/GorillaCookieClickerFixed/releases/latest/download/GorillaCookieClicker.dll"
+ },
 ]
  

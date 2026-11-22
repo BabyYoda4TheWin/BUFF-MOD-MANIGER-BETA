@@ -219,5 +219,13 @@
     "group": "random fun stuff",
     "download_url": "https://github.com/Instel12/GorillaCookieClickerFixed/releases/latest/download/GorillaCookieClicker.dll"
  },
+  {
+    "name": "TicTacToeFixed",
+    "author": "Instel12",
+    "version": "1.0.0",
+    "git_path": "Instel12/TicTacToeFixed",
+    "group": "random fun stuff",
+    "download_url": "https://github.com/Instel12/TicTacToeFixed/releases/latest/download/TicTacToe.dll"
+ },
 ]
  

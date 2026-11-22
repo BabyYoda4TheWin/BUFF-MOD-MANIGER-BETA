@@ -202,5 +202,14 @@
     "git_path": "struuct/Backflip",
     "group": "Gameplay",
     "download_url": "https://github.com/struuct/Backflip/releases/latest/download/Backflip.dll"
-]
  },
+  {
+    "name": "iireborn",
+    "author": "iimenu",
+    "version": "1.2.6",
+    "git_path": "iimenu/project",
+    "group": "illigal mods",
+    "download_url": "https://github.com/iimenu/project/releases/latest/download/ii.Reborn.dll"
+ },
+]
+ 
